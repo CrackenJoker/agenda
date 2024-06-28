@@ -1,0 +1,36 @@
+{
+  "tarefas": [
+    {
+      "id": "cb00",
+      "nome": "Criar um app web de lembredo com vue 3 sem ajuda de alguma IA, pessoa ou entidade, demodo a melhorar as minhas aptidões com programador",
+      "estado": "Concluida"
+    },
+    {
+      "id": "3ac5",
+      "nome": "Aplicativo de Contador com Componentes Reativos",
+      "estado": "Pendente"
+    },
+    {
+      "id": "4936",
+      "nome": "Integração com API REST usando Axios",
+      "estado": "Pendente"
+    },
+    {
+      "id": "4042",
+      "nome": "Formulário de Contato com Validação",
+      "estado": "Pendente"
+    },
+    {
+      "id": "33d4",
+      "nome": "Aplicativo de Gerenciamento de Usuários com Rotas",
+      "estado": "Pendente"
+    }
+  ],
+  "concluidas": [
+    {
+      "id": "cb00",
+      "nome": "Criar um app web de lembredo com vue 3 sem ajuda de alguma IA, pessoa ou entidade, demodo a melhorar as minhas aptidões com programador",
+      "estado": "Concluida"
+    }
+  ]
+}
